@@ -1,0 +1,2 @@
+# QRScaner
+Escanea codigos QR
